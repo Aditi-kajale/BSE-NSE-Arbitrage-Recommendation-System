@@ -1,0 +1,9 @@
+body{
+    background-color: #cdeaf7;
+}
+.navclass
+{
+    width:100%;
+    background: #1b315e;
+    background: linear-gradient(90deg, rgb(35, 78, 109) 0%, rgb(65, 34, 129) 100%);
+}
