@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "aditi",
+      "email": "aditi@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullname": "anushka",
+      "email": "anu@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "fullname": "aditi kajale",
+      "email": "aditi1@gmail.com",
+      "password": "1234",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
